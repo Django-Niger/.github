@@ -1,6 +1,6 @@
 # Welcome to the Django Niger Organization
 
-![Django Niger Logo](https://your-image-url.com/logo.png)
+![Django Niger Logo]([https://your-image-url.com/logo.png](https://drive.google.com/file/d/1hiI_Bg-UFOFRoeYh-DwwUZ--1KyKzrLW/view?usp=sharing))
 
 Welcome to the GitHub organization of **Django Niger**! Our mission is to create a strong and dynamic community around the Django framework. All projects hosted here are created by the community and for the community, and are entirely open source. We invite everyone, regardless of experience level, to contribute.
 
